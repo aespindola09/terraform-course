@@ -1,2 +1,2 @@
 # terraform-course
-On course
+On course GCP
